@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "228495006085",
+    "firebase_url": "https://macbeth-covid-room-default-rtdb.firebaseio.com",
+    "project_id": "macbeth-covid-room",
+    "storage_bucket": "macbeth-covid-room.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228495006085:android:2897a3463c192c90e6ccec",
+        "android_client_info": {
+          "package_name": "com.macbethcorp.covidroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228495006085-9f2rp8901jf4brkvi71jpdmqrih5p8h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOweZIIadX3wCwKE7L-mvRtK6XWbv9HtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228495006085-9f2rp8901jf4brkvi71jpdmqrih5p8h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228495006085:android:972f4e4e3b34d726e6ccec",
+        "android_client_info": {
+          "package_name": "com.macbethcorp.covidroomadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228495006085-8lfvja4jlaclsaie4fo15914thp4eec4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.macbethcorp.covidroomadmin",
+            "certificate_hash": "8d1445cbfc4b237133cfa75a796e00ced033e2da"
+          }
+        },
+        {
+          "client_id": "228495006085-9f2rp8901jf4brkvi71jpdmqrih5p8h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOweZIIadX3wCwKE7L-mvRtK6XWbv9HtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228495006085-9f2rp8901jf4brkvi71jpdmqrih5p8h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9497161130845867~8647087450"
+    }
+  ],
+  "configuration_version": "1"
+}
